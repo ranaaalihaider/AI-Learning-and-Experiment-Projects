@@ -12,3 +12,4 @@ Machine Learning, AI models, Programming-focused AI workflows.
 - [2025-06-30] Updated UI components.
 - [2025-07-05] Refactored controllers.
 - [2025-07-25] Refactored controllers.
+- [2025-08-02] Added documentation for recent changes.
