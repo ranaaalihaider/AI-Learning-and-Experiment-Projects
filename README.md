@@ -16,3 +16,4 @@ Machine Learning, AI models, Programming-focused AI workflows.
 - [2025-08-25] Added unit tests for core functions.
 - [2025-08-26] Added documentation for recent changes.
 - [2025-09-25] Updated UI components.
+- [2025-10-03] Added unit tests for core functions.
