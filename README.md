@@ -31,3 +31,4 @@ Machine Learning, AI models, Programming-focused AI workflows.
 - [2026-04-12] Fixed state management bug.
 - [2026-05-06] Refactored controllers.
 - [2026-05-14] Updated dependencies.
+- [2026-05-18] Added documentation for recent changes.
