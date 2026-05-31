@@ -76,3 +76,4 @@ Machine Learning, AI models, Programming-focused AI workflows.
 - [2026-04-08] Typo fix in documentation.
 - [2026-04-11] Typo fix in documentation.
 - [2026-04-14] Adjusted logic flow.
+- [2026-05-31] Minor tweak to configuration.
