@@ -33,3 +33,4 @@ Machine Learning, AI models, Programming-focused AI workflows.
 - [2026-05-14] Updated dependencies.
 - [2026-05-18] Added documentation for recent changes.
 - [2026-06-01] Added unit tests for core functions.
+- [2026-06-08] Refactored controllers.
